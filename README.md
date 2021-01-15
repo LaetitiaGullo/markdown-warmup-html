@@ -17,6 +17,7 @@ Projet réalisé dans le cadre de la formation "Développeur web junior" [@ BeCo
 
 ### Langage(s) utilisé(s) :
 * HTML
+* CSS
 
 ### Objectifs :
 1. Utiliser les balises HTML de base
